@@ -1,5 +1,5 @@
 import { Text, View, StyleProp, StyleSheet } from "react-native";
-
+// no time ;(
 export default function Index() {
   return (
     <View style={styles.bg}>
