@@ -1,5 +1,5 @@
 import { Text, View, StyleProp, StyleSheet } from "react-native";
-// no time ;(
+// no time ;( will do this in Vacation
 export default function Index() {
   return (
     <View style={styles.bg}>
